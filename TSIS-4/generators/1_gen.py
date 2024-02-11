@@ -7,3 +7,4 @@ def squares(N):
 N = 10
 for square in squares(N):
     print(square)
+
