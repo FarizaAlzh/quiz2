@@ -2,4 +2,5 @@
 import math 
 num = [1 , 2 , 3, 4 , 5]
 result = math.prod(num)
+# math.prod() для умножения всех чисел в этом списке. 
 print(result)
